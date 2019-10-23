@@ -1,0 +1,14 @@
+alphabets
+asdfghb
+xdcfvbnm
+dxcfvgbn
+xcvbnm
+cvbjn
+numbers
+5
+7
+8
+8
+9
+9
+
